@@ -1,0 +1,7 @@
+D:\studia lokal\client_raim_dl1\client_raim_dl1\bin\Debug\client_raim_dl1.exe.config
+D:\studia lokal\client_raim_dl1\client_raim_dl1\bin\Debug\client_raim_dl1.exe
+D:\studia lokal\client_raim_dl1\client_raim_dl1\bin\Debug\client_raim_dl1.pdb
+D:\studia lokal\client_raim_dl1\client_raim_dl1\obj\Debug\client_raim_dl1.csprojResolveAssemblyReference.cache
+D:\studia lokal\client_raim_dl1\client_raim_dl1\obj\Debug\client_raim_dl1.csproj.CoreCompileInputs.cache
+D:\studia lokal\client_raim_dl1\client_raim_dl1\obj\Debug\client_raim_dl1.exe
+D:\studia lokal\client_raim_dl1\client_raim_dl1\obj\Debug\client_raim_dl1.pdb
